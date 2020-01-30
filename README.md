@@ -1,1 +1,5 @@
-# cs320_lab2
+# Joonkyung
+
+About Company
+This is a Master student in Economics.
+
